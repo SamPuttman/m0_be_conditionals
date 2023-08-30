@@ -68,7 +68,7 @@ cups_of_flour = 1
 has_sauce = true
 
 if cups_of_flour >= 2 && has_sauce == true
-  puts "I can make a pizza"
+  puts "I can make pizza"
 elsif cups_of_flour < 2 
   puts "I cannot make pizza"
 else has_sauce = false
